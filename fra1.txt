@@ -1,0 +1,12 @@
+delta=0.1mu=0.2
+delta=0.1mu=0.4
+delta=0.1mu=0.6
+delta=0.1mu=0.8
+delta=0.2mu=0.2
+delta=0.2mu=0.4
+delta=0.2mu=0.6
+delta=0.2mu=0.8
+delta=0.3mu=0.2
+delta=0.3mu=0.4
+delta=0.3mu=0.6
+delta=0.3mu=0.8
